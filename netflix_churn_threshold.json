@@ -1,0 +1,4 @@
+{
+    "model": "Logistic Regression",
+    "churn_threshold": 0.6
+}
